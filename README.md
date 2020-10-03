@@ -1,3 +1,5 @@
 
 This is really a very nice repo.
-I want to update this readme.
+This repo is for hacktoberfest2020
+make any chnages here and get merged.
+Thank you
